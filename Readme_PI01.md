@@ -39,7 +39,7 @@ Listamos los los siguientes endpoints:  peliculas_mes('enero')
 + Request 6: [retorno('Jumanji')](https://pi-ml-ops-p8ot.onrender.com/retorno/Jumanji)
 + Request 7: [recomendacion('Sabrina')](https://pi-ml-ops-p8ot.onrender.com/recomendacion/Sabrina)
 
-## **Análisis exploratorio de los datos** [link] (https://github.com/LionelMc/PI_ML_OPS_Project/blob/main/EDA.ipynb)
+## **Análisis exploratorio de los datos** [link](https://github.com/LionelMc/PI_ML_OPS_Project/blob/main/EDA.ipynb)
 Realizar un análisis exploratorio de los datos para investigar las relaciones entre las variables de los datasets, ver si hay outliers o anomalías, y ver si hay algún patrón interesante que valga la pena explorar en un análisis posterior.
 
 ## **Sistema de recomendación** [link](https://github.com/LionelMc/PI_ML_OPS_Project/blob/main/Modelo_ML.ipynb)
