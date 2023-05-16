@@ -45,7 +45,7 @@ Realizar un análisis exploratorio de los datos para investigar las relaciones e
 ## **Sistema de recomendación** [link](https://github.com/LionelMc/PI_ML_OPS_Project/blob/main/Modelo_ML.ipynb)
 Entrenar un modelo de machine learning para armar un sistema de recomendación de películas. El sistema consiste en recomendar películas a los usuarios basándose en películas similares. Debe ser deployado como una función adicional de la API.
 
-## **Video** [link]()
+## **Video** [link](video1759818446.mp4)
 Realizar un video mostrando el resultado de las consultas propuestas y del modelo de machine learning entrenado.
 
 ## **Conclusión**
